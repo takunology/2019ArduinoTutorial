@@ -1,4 +1,4 @@
-#define pin 1
+const int pinA = 1;
 void setup() {
   // put your setup code here, to run once:
   Serial.begin(9600);
@@ -6,7 +6,7 @@ void setup() {
 
 void loop() {
   // put your main code here, to run repeatedly:
-  int val = analogRead(pin);
-  Serial.write(val);
-  delay(100);
+  int vol = analogRead(pinA);
+  Serial.println(vol);
+  delay(50);
 }

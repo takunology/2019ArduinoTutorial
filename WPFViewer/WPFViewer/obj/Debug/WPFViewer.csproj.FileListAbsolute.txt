@@ -1,0 +1,14 @@
+C:\Users\takun\Documents\GitHub\2019ArduinoTutorial\WPFViewer\WPFViewer\bin\Debug\WPFViewer.exe.config
+C:\Users\takun\Documents\GitHub\2019ArduinoTutorial\WPFViewer\WPFViewer\bin\Debug\WPFViewer.exe
+C:\Users\takun\Documents\GitHub\2019ArduinoTutorial\WPFViewer\WPFViewer\bin\Debug\WPFViewer.pdb
+C:\Users\takun\Documents\GitHub\2019ArduinoTutorial\WPFViewer\WPFViewer\obj\Debug\WPFViewer.csprojAssemblyReference.cache
+C:\Users\takun\Documents\GitHub\2019ArduinoTutorial\WPFViewer\WPFViewer\obj\Debug\MainWindow.g.cs
+C:\Users\takun\Documents\GitHub\2019ArduinoTutorial\WPFViewer\WPFViewer\obj\Debug\App.g.cs
+C:\Users\takun\Documents\GitHub\2019ArduinoTutorial\WPFViewer\WPFViewer\obj\Debug\WPFViewer_MarkupCompile.cache
+C:\Users\takun\Documents\GitHub\2019ArduinoTutorial\WPFViewer\WPFViewer\obj\Debug\WPFViewer_MarkupCompile.lref
+C:\Users\takun\Documents\GitHub\2019ArduinoTutorial\WPFViewer\WPFViewer\obj\Debug\MainWindow.baml
+C:\Users\takun\Documents\GitHub\2019ArduinoTutorial\WPFViewer\WPFViewer\obj\Debug\WPFViewer.g.resources
+C:\Users\takun\Documents\GitHub\2019ArduinoTutorial\WPFViewer\WPFViewer\obj\Debug\WPFViewer.Properties.Resources.resources
+C:\Users\takun\Documents\GitHub\2019ArduinoTutorial\WPFViewer\WPFViewer\obj\Debug\WPFViewer.csproj.GenerateResource.cache
+C:\Users\takun\Documents\GitHub\2019ArduinoTutorial\WPFViewer\WPFViewer\obj\Debug\WPFViewer.exe
+C:\Users\takun\Documents\GitHub\2019ArduinoTutorial\WPFViewer\WPFViewer\obj\Debug\WPFViewer.pdb
